@@ -1,0 +1,6 @@
+[submodule "angular-ERS-client"]
+	path = angular-ERS-client
+	url = https://github.com/revatureBrill/angular-ERS-client.git
+[submodule "ERS-app"]
+	path = ERS-app
+	url = https://github.com/revatureBrill/ERS-app.git
